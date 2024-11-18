@@ -63,4 +63,5 @@ public class Puffinduy extends Hogwarts{
             System.out.println("Студенты по силе равны");
         }
     }
+
 }

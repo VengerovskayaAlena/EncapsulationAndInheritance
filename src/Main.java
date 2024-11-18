@@ -35,5 +35,6 @@ public class Main {
         Puffinduy.studentComparison(studentPuffinduy[1], studentPuffinduy[0]);
         Kogtevran.studentComparison(studentKogtevran[0], studentKogtevran[1]);
         Slytherin.studentComparison(studentSlytherin[1], studentSlytherin[2]);
+
     }
 }

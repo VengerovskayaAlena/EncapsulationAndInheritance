@@ -75,4 +75,5 @@ public class Kogtevran extends Hogwarts{
             System.out.println("Студенты по силе равны");
         }
     }
+
 }

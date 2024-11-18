@@ -77,5 +77,4 @@ public class Hogwarts {
             System.out.println("Студенты по силе равны");
         }
     }
-
 }

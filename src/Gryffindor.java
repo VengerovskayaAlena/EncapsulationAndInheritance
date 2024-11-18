@@ -63,4 +63,5 @@ public class Gryffindor extends Hogwarts {
             System.out.println("Студенты по силе равны");
         }
     }
+
 }
